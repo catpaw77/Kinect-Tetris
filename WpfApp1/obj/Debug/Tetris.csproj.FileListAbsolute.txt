@@ -1,0 +1,36 @@
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.dll
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.xml
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\Tetris.csproj.CopyComplete
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\personal\110學年度\110學年度第二學期\多媒體\final project\WpfApp1\WpfApp1\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.dll
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\bin\Debug\Microsoft.Kinect.xml
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\Tetris.csproj.AssemblyReference.cache
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\Tetris.csproj.CopyComplete
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\OneDrive - 國立臺灣科技大學\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
